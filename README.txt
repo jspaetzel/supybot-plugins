@@ -1,0 +1,1 @@
+Python based plugins for supybot, most of them are pretty badly coded or hacked together. Just for fun
